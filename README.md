@@ -19,8 +19,7 @@ troubleshooting.
 | Setup                                                            | Description                                                                    |
 | ---------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | [Github and Initial Setup](github.md)                            | Set up accounts for GitHub & GitHub Enterprise. Fork and Clone this repository |
-| [Git](git.md)                                                    | Set global Git config, add SSH keys for GitHub & GHE                           |
-| [Bash Configuration](bash.md)                                    | Set up necessary bash files                                                    |
+| [Git](git.md)                                                    | Set global Git config, add SSH keys for GitHub & GHE                           |                                                    |
 | [Command Line Tools - Xcode (macOS only)](command_line_tools.md) | Install Xcode                                                                  |
 | [Homebrew](homebrew.md)                                          | Install Homebrew package manager                                               |
 | [Node](node.md)                                                  | Install nvm, Node, and global npm packages                                     |
