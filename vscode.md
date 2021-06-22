@@ -19,7 +19,7 @@ If you do not already have one of the text editors below please choose one, eith
 
 
 ## VS Code
-[Download Here](https://code.visualstudio.com/download).
+[Download Here](https://code.visualstudio.com/download)
 
 
 **Important**: When done installing, if you are on a Mac, be sure to click and drag the text editor you installed into your Applications folder. If you skip this step, any custom configurations will be lost each time you reopen your text editor.
