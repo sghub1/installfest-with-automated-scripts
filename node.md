@@ -2,14 +2,12 @@
 
 - [x] [Github and Initial Setup](github.md)
 - [x] [Git](git.md)
-- [x] [Bash Configuration](bash.md)
 - [x] [Command Line Tools - Xcode (macOS only)](command_line_tools.md)
 - [x] [Homebrew](homebrew.md)
 - [ ] **Node**
 - [ ] [Python](python.md)
 - [ ] [Chrome](chrome.md)
-- [ ] [VS Code](vscode.md)
-
+- [ ] [Install a Text Editor](vscode.md)
 ## Node
 
 We're going to be installing Node. Node (and its various packages) will be
