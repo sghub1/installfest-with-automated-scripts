@@ -8,7 +8,7 @@
 - [x] [Node](node.md)
 - [x] [Python](python.md)
 - [x] [Chrome](chrome.md)
-- [ ] **VS Code**
+- [ ] **Install a Text Editor**
 
 ## VS Code
 
