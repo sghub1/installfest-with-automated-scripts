@@ -2,13 +2,12 @@
 
 - [x] [Github and Initial Setup](github.md)
 - [x] [Git](git.md)
-- [x] [Bash Configuration](bash.md)
 - [ ] **Command Line Tools - Xcode (macOS only)**
 - [ ] [Homebrew](homebrew.md)
 - [ ] [Node](node.md)
 - [ ] [Python](python.md)
 - [ ] [Chrome](chrome.md)
-- [ ] [VS Code](vscode.md)
+- [ ] [Install a Text Editor](vscode.md)
 
 ## Command Line Tools (Xcode)
 
