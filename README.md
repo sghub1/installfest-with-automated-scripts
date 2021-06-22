@@ -24,4 +24,4 @@ troubleshooting.
 | [Homebrew](homebrew.md)                                          | Install Homebrew package manager                                               |
 | [Node](node.md)                                                  | Install nvm, Node, and global npm packages                                     |
 | [Chrome](chrome.md)                                              | Install Chrome and configure settings                                          |
-| [VS Code](vscode.md)                                             | Install VS Code/extensions and configure settings                              |
+| [Install a Text Editor](vscode.md)                                             | Install Sublime, Atom or VS Code/extensions and configure settings                              |
