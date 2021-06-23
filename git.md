@@ -65,4 +65,4 @@ The script will prompt you for some information
 9.   Next, log into git.generalassemb.ly, go to [https://git.generalassemb.ly/settings/keys](https://git.generalassemb.ly/settings/keys),
     and paste in the same SSH key.
 
-  [Continue With Installfest](bash.md)
+  [Continue With Installfest](command_line_tools.md)
