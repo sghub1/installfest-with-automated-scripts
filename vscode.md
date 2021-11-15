@@ -18,9 +18,6 @@ If you do not already have one of the text editors below please choose one, eith
 [Download Here](https://atom.io/)
 
 
-## VS Code
-[Download Here](https://code.visualstudio.com/download)
-
 
 **Important**: When done installing, if you are on a Mac, be sure to click and drag the text editor you installed into your Applications folder. If you skip this step, any custom configurations will be lost each time you reopen your text editor.
 
@@ -36,39 +33,13 @@ If you do not already have one of the text editors below please choose one, eith
 - Open Atom by clicking on the icon in your dock, OR by opening your search `cmd` + `space` and typing `atom`.
 - To be able to launch Atom from your terminal: open the Command Palette (⇧⌘P) and type 'shell command' to find the Shell Command: Install 'atom' command in PATH.
 
-#### VS Code 
-- Open VS Code by clicking on the icon in your dock, OR by opening your search `cmd` + `space` and typing `vscode`.
-- To be able to launch VS Code from your terminal: open the Command Palette (⇧⌘P) and type 'shell command' to find the Shell Command: Install 'code' command in PATH.
-
-![install shell commands](https://i.imgur.com/il5eKGh.png)
-
-- You might need to quit terminal _and_ your text editor of choice (`cmd` + `q`) in order for this to take effect.
-- Make sure you are `quitting` terminal and the text editor, not just closing the program to install shell commands.
-
 
 #### How do I know it worked?
 
 1. Open terminal.
-2. Type the command `subl --help` , `atom --help` or`code --help` into terminal. If you see some help options, you successfully installed the `subl, atom or code` command.
+2. Type the command `subl --help` or `atom --help` into terminal. If you see some help options, you successfully installed the `subl or atom` command.
 
 
-### Install VS Code Extensions (If you are using VS Code) 
-
-VS Code has numerous extensions that make developers' lives easier! We will be installing a few essential ones right now:
-
-```
-"ritwickdey.liveserver",
-"dbaeumer.vscode-eslint",
-"esbenp.prettier-vscode",
-```
-
-### Recommended but no required
-```
-"coenraads.bracket-pair-colorizer",
-"christian-kohler.path-intellisense",
-```
-
-> Quit your instance of VS Code and reopen for the newly-installed extensions to take effect!
 
 
 
